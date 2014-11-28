@@ -55,6 +55,12 @@ width: 100%;
 float: left;
 }
 
+.dest{
+	height: auto;
+	width: 256px;
+	border-radius: 10px;
+}
+
 .destaque{
 width: 20%;
 height: 180px;
