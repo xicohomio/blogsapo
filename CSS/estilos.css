@@ -41,6 +41,10 @@ width: 8%;
 text-decoration: none;
 }
 
+input{
+	float: right;
+}
+
 a{
 	text-decoration: none;
 }
