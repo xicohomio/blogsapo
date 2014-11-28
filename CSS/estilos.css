@@ -1,5 +1,5 @@
 div{
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	margin-top: 5px;
 }
 
@@ -28,7 +28,7 @@ float: left;
 font-size: 14px;
 display: table;
 clear: both;
-background: linear-gradient(to bottom, yellow 0%, green 150%)
+background: linear-gradient(to bottom, #f99a26 0%, #ef8526 150%)
 }
 
 li{
@@ -56,8 +56,8 @@ float: left;
 }
 
 .dest{
-	height: auto;
-	width: 256px;
+	height: 90%;
+	width: 100%;
 	border-radius: 10px;
 }
 
