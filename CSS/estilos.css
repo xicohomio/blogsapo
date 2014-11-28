@@ -1,0 +1,68 @@
+div{
+	border: 1px solid green;
+	margin-top: 5px;
+}
+
+
+.home{
+	text-decoration: none;
+}
+
+.main{
+width: 95%;
+margin: 0 auto;
+}
+
+.logo{
+width: 210px;
+height: 43px;
+float: left;
+line-height: 10px;
+}
+
+
+.menu{
+width: 100%;
+height: 45px;
+float: left;
+font-size: 14px;
+display: table;
+clear: both;
+background: linear-gradient(to bottom, yellow 0%, green 150%)
+}
+
+li{
+list-style: none none;
+float: left;
+margin: 2px;
+font-family: arial;
+height: 100%;
+width: 8%;
+text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.banner{
+height: 250px;
+width: 100%;
+float: left;
+}
+
+.destaque{
+width: 20%;
+height: 180px;
+float: left;
+margin: 3%;
+}
+
+.destaque.last{
+	margin-right: 0;
+	float: right;
+}
+
+.destaque.first{
+	margin-left: 0;
+}
